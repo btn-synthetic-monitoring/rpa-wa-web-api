@@ -1,0 +1,1 @@
+export type TClientStatus = 'UNINITIALIZED' | 'LOADING' | 'READY' | 'AUTHENTICATED' | 'DISCONNECTED'
